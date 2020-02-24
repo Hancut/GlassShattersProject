@@ -1,12 +1,14 @@
 # GlassShattersProject
  Animation of breaking glass in OpenGL.
  
- Buttons :	
- * 1 - activate mode sticla
+ Controls :	
+ * wasd - move in scene
+ 
+ * 1 - activate mode glass
  
  * 2 - activate mode wireframe
 
- * 3 - activate mode normale
+ * 3 - activate mode normals
 
  * 0 - start animation
 
